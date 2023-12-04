@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Timmy Clifton. I work in technology at CHESS Christian School. 
-My current tools are Python scripts and n8n.
+My current development tools are Python scripts and n8n.
 
 <!--
 **tclifton-chess/tclifton-chess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
